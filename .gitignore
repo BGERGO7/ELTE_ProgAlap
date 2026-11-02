@@ -1,0 +1,65 @@
+## Visual Studio / .NET core files
+bin/
+obj/
+out/
+
+## Visual Studio build and environment files
+.vs/
+.idea/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific files
+*.suo
+*.user
+*.userquery
+*.docstates
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+build/
+bld/
+[Bb]in/
+[Ob]j/
+[Ll]og/
+[Ll]ogs/
+
+## NuGet Packages
+*.nupkg
+*.snupkg
+# Packages folder at solution root
+**/packages/*
+!**/packages/build/
+# Restore log
+nuget.config.user
+
+## Test Results and Coverage
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+## Publish outputs
+publish/
+*.azurePubxml
+*.pubxml
+
+## Local configuration and secrets
+appsettings.Development.json
+appsettings.Local.json
+*.local.json
+secrets.json
+
+## OS generated files
+.DS_Store
+Thumbs.db
