@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+1. feladat: 
+https://progalap.elte.hu/specifikacio/v1/?uuid=a62a333b-dcc3-47f3-bbb2-a144869530f0
+https://progalap.elte.hu/stuki/v1/?uuid=a445b41e-5d99-44c4-88de-22302bd14248
+*/
+
+using System;
 
 namespace ProbaZH
 {
